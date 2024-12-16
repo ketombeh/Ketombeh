@@ -10,7 +10,8 @@ Hi there :D , Welcome
 
 ### Development Tools
 
-|  Android Studio  |  Sublime |  Github  |
+|  Android Studio  |  Sublime |
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Programming
 
@@ -31,5 +32,4 @@ Hi there :D , Welcome
 ### Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ketombeh&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=GitHub%20Stats)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ketombeh&layout=compact&theme=radical&bg_color=161b22&hide_border=true&range=last_7_days)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketombeh&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
